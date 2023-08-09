@@ -2,7 +2,7 @@
              Damn Doodle
 </h1>
 
-![image](Readme-images/Home Page.png)
+![image](Readme-images/HomePage.png)
 
  Developed a Website where customer can order customised Doodle for them.<br>
 
@@ -10,25 +10,28 @@
 
 ## Tech Stack Used
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+HTML , CSS , Bootstrap , JavaScript
 
-## Libraries Used
-
-<img src="https://img.shields.io/badge/numpy%20-%2314354C.svg?&style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/streamlit%20-%2314354C.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/nltk%20-%2314354C.svg?&style=for-the-badge&logo=nltk&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn%20-%2314354C.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 ## Structure Of The Project
 
-- Each prediction page is connected with a Machine Learning Model which uses either of Logistic Regression or Support Vector Machine Algorithms to predict the results.
-- There are 3 different datasets being used for each prediction.
-- User lands into each prediction site of the web app from the options in the Categories section.
-- Only 1 relevant feature taken into consideration which is the text and then the text is preprocessed and vectoized with help of TF-IDF Vectorizer to fit into the model and tain it.
-- So the user gets a broad overview of the text after the analysis
+
+- Damn Doodle is a creative platform that brings you a delightful collection of imaginative doodles.
+-Home Page: Get started by diving into the world of Damn Doodle, where creativity knows no bounds.
+
+-Gallery: Immerse yourself in a diverse range of doodles, each telling its own unique story and sparking your imagination.
+
+-Most Popular Doodles: Discover the doodles that have captured the hearts of our community and gained the most recognition.
+
+-Customer Reviews: Read genuine feedback from our satisfied customers and join the conversation by sharing your own experiences.
+
+-Contact Us: Have questions, suggestions, or want to collaborate? Our simple contact guide will help you reach out to us effortlessly.
 
 
 ## Glance At The Application- 
 
 ### 1. Home Page
-![image](Readme-images/Home Page.png)
+![image](Readme-images/HomePage.png)
 
 ### 2. Gallery
 ![image](Readme-images/Gallery.png)
@@ -37,10 +40,10 @@
 ![image](Readme-images/Popular.png)
 
 ### 4. Customer Reviews
-![image](Readme-images/Customer Review.png)
+![image](Readme-images/CustomerReview.png)
 
 ### 4. How it Works
-![image](Readme-images/How it works.png)
+![image](Readme-images/works.png)
 
 ### 4. Contact Page
 ![image](Readme-images/Message.png)
