@@ -33,19 +33,19 @@
 ## Glimpse🚀
 
 ### 1. Home Page
-![image](Readme-images/HomePage.png)
+![image](Readme-images1/HomePage.png)
 
 ### 2. Gallery
-![image](Readme-images/Gallery.png)
+![image](Readme-images1/Gallery.png)
 
 ### 3. Popular Doodles
-![image](Readme-images/Popular.png)
+![image](Readme-images1/Popular.png)
 
 ### 4. Customer Reviews
-![image](Readme-images/CustomerReview.png)
+![image](Readme-images1/CustomerReview.png)
 
 ### 4. How it Works
-![image](Readme-images/works.png)
+![image](Readme-images1/works.png)
 
 ### 4. Contact Page
-![image](Readme-images/Message.png)
+![image](Readme-images1/Message.png)
